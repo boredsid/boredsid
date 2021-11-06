@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @boredsid
-- 👀 I’m interested in creating python based products.
+- 👋 Hi, I’m Siddhant
+- 👀 I’m interested in creating python based projects
 - 📫 How to reach me - siddhantnarula96@gmail.com
 
 <!---
